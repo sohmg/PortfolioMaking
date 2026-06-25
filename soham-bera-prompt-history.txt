@@ -1,0 +1,83 @@
+================================================================
+SOHAM BERA — PROMPT HISTORY
+  (Resume + Portfolio Website Build)
+================================================================
+
+----------------------------------------------------------------
+  PHASE 1: RESUME CREATION
+----------------------------------------------------------------
+
+[1] Generate a resume for me.
+
+[2] Here are my details:
+    - Name: Soham Bera
+    - Email: sohambera087@gmail.com
+    - Phone: 8296443312
+    - Location: Bangalore
+    - LinkedIn: https://www.linkedin.com/in/soham-bera-0149052b4/
+    - Education: DPS Whitefield (10th grade),
+                 Novi High School, Michigan, USA (+1, +2)
+    - Target role: Software Engineer
+    - Projects: Anti-Theft System, Mechatronics projects with Fanuc
+    - Involvement: Fanuc USA (1 year), Volkswagen USA (1 year)
+    - Skills: HTML, Java, JavaScript, CSS, Python
+
+[3] Clarifications provided:
+    - Currently a 1st-year student at REVA University,
+      B.E./B.Tech in Computer Science Engineering (2025–2029)
+    - Anti-Theft System is a hardware/IoT project using a
+      microcontroller and sensors
+
+[4] Please format this neatly into a downloadable Word document
+    resume with clear sections.
+
+----------------------------------------------------------------
+  PHASE 2: PORTFOLIO WEBSITE
+----------------------------------------------------------------
+
+[5] Based on this resume, generate a portfolio website —
+    make it visually striking and distinctive.
+
+----------------------------------------------------------------
+  PHASE 3: CONTENT UPDATES (Round 1)
+----------------------------------------------------------------
+
+[6] Few changes:
+    - REVA University start year corrected to 2025
+    - For Fanuc and VW: specify backend coding for assembly
+      line robots (both companies)
+    - Both Fanuc and VW were done in the same 2024–2025 year
+    - Add Google certification: Project Management
+    - Add IBM certification: Data Science with Python
+    - P-02 project: worked on assembly line robots and coded
+      robotic hands for assembly line operations
+    - Add AutoCAD as a key skill under mechatronics experience
+
+----------------------------------------------------------------
+  PHASE 4: CONTENT UPDATES (Round 2)
+----------------------------------------------------------------
+
+[7] A few final changes:
+    - In the Credentials section: make company names bigger
+      and more prominent
+    - Add Fanuc USA's mechatronics accomplishment as a third
+      credential card
+
+[8] Generate a prompt history .txt file summarising the
+    build journey — structured like a clean log, not raw chat.
+
+----------------------------------------------------------------
+  POSSIBLE NEXT STEPS (not yet requested)
+----------------------------------------------------------------
+
+[ ] Wire up real GitHub repo links for the two projects.
+[ ] Add a "Download Resume" button in the hero section
+    linking to the Word/PDF resume.
+[ ] Explore an alternate color direction (e.g. light mode,
+    or a warmer palette for print).
+[ ] Add a subtle page-load or scroll intro animation.
+[ ] Deploy the portfolio to GitHub Pages or Vercel.
+
+================================================================
+  END OF PROMPT HISTORY
+================================================================
